@@ -1,7 +1,10 @@
 # Motorcycle Parts Sales Analysis – Wholesale Revenue Insights
 
 ## Project Overview
-This Power BI project analyzes motorcycle parts sales from June to August 2021. The goal is to provide the company's board of directors with valuable insights into wholesale revenue trends across different product lines, months, and warehouses.
+
+This project showcases my data analysis skills using SQL for data preparation and Power BI for visualization. It examines motorcycle parts sales from June to August 2021, providing insights into wholesale revenue trends across product lines, months, and warehouses.
+
+
 
 ![Example output](img/scr_1.png)
 
