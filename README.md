@@ -5,4 +5,4 @@ This Power BI project analyzes motorcycle parts sales from June to August 2021. 
 
 ## Tech stack
 
-TODO: finish later
+TODO: finish later2
