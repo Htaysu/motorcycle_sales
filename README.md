@@ -31,5 +31,6 @@ The dataset consists of sales data with the following attributes:
   - Frame and body parts generate the highest net revenue.
   - Central and North warehouses are the top two revenue contributors.
   - August is the most profitable month for net revenue.
-4. Conclusion
+
+## Conclusion
 This analysis provides crucial insights into wholesale revenue trends, helping the company optimize inventory, improve sales strategies, and enhance decision-making processes. By leveraging Power BI visualizations, the board of directors can make data-driven decisions to maximize profitability.
