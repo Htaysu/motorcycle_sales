@@ -5,16 +5,16 @@ This Power BI project analyzes motorcycle parts sales from June to August 2021. 
 
 ### Dataset Overview
 The dataset consists of sales data with the following attributes:
-      - order_number: Unique order number.
-      - date : The Date of the order, ranging from June to August 2021.
-      - warehouse: The Warehouse location where the order was placed (North, Central, or West).
-      - client_type : Specifies whether the order was Retail or Wholesale.
-      - product_line : Type of product ordered.
-      - quantity : Number of products ordered.
-      - unit_price : Price per product in dollars.
-      - total : Total order price in dollars.
-      - payment : Payment method used (Credit Card, Transfer, or Cash).
-      - payment_fee: Percentage of the total order charged as a payment fee.
+ - order_number: Unique order number.
+ - date : The Date of the order, ranging from June to August 2021.
+ - arehouse: The Warehouse location where the order was placed (North, Central, or West).
+ - client_type : Specifies whether the order was Retail or Wholesale.
+ - roduct_line : Type of product ordered.
+ - quantity : Number of products ordered.
+ - unit_price : Price per product in dollars.
+ - total : Total order price in dollars.
+ - payment : Payment method used (Credit Card, Transfer, or Cash).
+ - payment_fee: Percentage of the total order charged as a payment fee.
 
 ### Project Steps
 
