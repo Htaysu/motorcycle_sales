@@ -91,5 +91,5 @@ ROUND(SUM(total) - SUM(payment_fee), 2) AS net_revenue
 FROM motorcycle_part_sales
 WHERE client_type = 'Wholesale'
 GROUP BY product_line, warehouse, month
-ORDER BY product_line, month, net_revenue DESC;
+ORDER BY net_revenue DESC;
 
